@@ -1,1138 +1,1154 @@
-[
-    {
-        "Definition":"Academy of Clinical Neuropsychology",
-        "Document":"2",
-        "Keep":"keep",
-        "Defition":"Academy of Clinical Neuropsychology"
-    },
-    {
-        "Definition":"American Board of Professional Neuropsychology",
-        "Document":"2",
-        "Keep":"keep",
-        "Defition":"American Board of Professional Neuropsychology"
-    },
-    {
-        "Definition":"Accreditation Council of Graduate Medical Education",
-        "Document":"28",
-        "Keep":"keep",
-        "Defition":"Accreditation Council of Graduate Medical Education"
-    },
-    {
-        "Definition":"American College of Surgeons",
-        "Document":"5",
-        "Keep":"keep",
-        "Defition":"American College of Surgeons"
-    },
-    {
-        "Definition":"attention deficit hyperactivity disorder",
-        "Document":"19",
-        "Keep":"keep",
-        "Defition":"attention deficit hyperactivity disorder"
-    },
-    {
-        "Definition":"American Indian Telemental Health",
-        "Document":"42",
-        "Keep":"keep",
-        "Defition":"American Indian Telemental Health"
-    },
-    {
-        "Definition":"analysis of variance",
-        "Document":"5",
-        "Keep":"keep",
-        "Defition":"analysis of variance"
-    },
-    {
-        "Definition":"American Psychological Association",
-        "Document":[
-            "2",
-            "5",
-            "13",
-            "18"
-        ],
-        "Keep":"keep",
-        "Defition":"American Psychological Association"
-    },
-    {
-        "Definition":"Association of Psychology Postdoctoral and Internship Centers",
-        "Document":[
-            "5",
-            "11"
-        ],
-        "Keep":"keep",
-        "Defition":"Association of Psychology Postdoctoral and Internship Centers"
-    },
-    {
-        "Definition":"Australian Psychological Society",
-        "Document":"5",
-        "Keep":"keep",
-        "Defition":"Australian Psychological Society"
-    },
-    {
-        "Definition":"Association of Psychology Training Clinics",
-        "Document":"11",
-        "Keep":"keep",
-        "Defition":"Association of Psychology Training Clinics"
-    },
-    {
-        "Definition":"Association of State and Provincial Psychology Boards",
-        "Document":[
-            "11",
-            "13",
-            "18",
-            "19",
-            "25",
-            "41"
-        ],
-        "Keep":"keep",
-        "Defition":"Association of State and Provincial Psychology Boards"
-    },
-    {
-        "Definition":"American Telemedicine Association",
-        "Document":"1",
-        "Keep":"keep",
-        "Defition":"American Telemedicine Association"
-    },
-    {
-        "Definition":"business association agreements",
-        "Document":"3",
-        "Keep":"keep",
-        "Defition":"business association agreements"
-    },
-    {
-        "Definition":"business associate agreements",
-        "Document":"19",
-        "Keep":"keep",
-        "Defition":"business associate agreements"
-    },
-    {
-        "Definition":"Board of Behavioral Sciences",
-        "Document":"18",
-        "Keep":"keep",
-        "Defition":"Board of Behavioral Sciences"
-    },
-    {
-        "Definition":"Beck Depression Inventory",
-        "Document":"0",
-        "Keep":"keep",
-        "Defition":"Beck Depression Inventory"
-    },
-    {
-        "Definition":"Behavioral health",
-        "Document":"28",
-        "Keep":"keep",
-        "Defition":"Behavioral health"
-    },
-    {
-        "Definition":"behavioral intervention technologies",
-        "Document":"40",
-        "Keep":"keep",
-        "Defition":"behavioral intervention technologies"
-    },
-    {
-        "Definition":"Behavioral parent training",
-        "Document":"17",
-        "Keep":"keep",
-        "Defition":"Behavioral parent training"
-    },
-    {
-        "Definition":"Cognitive Applications for Life Management",
-        "Document":"2",
-        "Keep":"keep",
-        "Defition":"Cognitive Applications for Life Management"
-    },
-    {
-        "Definition":"Collaborative Assessment and Management of Suicidality",
-        "Document":"16",
-        "Keep":"keep",
-        "Defition":"Collaborative Assessment and Management of Suicidality"
-    },
-    {
-        "Definition":[
-            "Clinician-Administered PTSD Scale",
-            "Counselor Assisted Problem Solving"
-        ],
-        "Document":[
-            "0",
-            "20"
-        ],
-        "Keep":"keep",
-        "Defition":"Counselor Assisted Problem Solving"
-    },
-    {
-        "Definition":"Coronavirus Aid, Relief, and Economic Security",
-        "Document":"32",
-        "Keep":"keep",
-        "Defition":"Coronavirus Aid, Relief, and Economic Security"
-    },
-    {
-        "Definition":"community-based outpatient clinics",
-        "Document":[
-            "35",
-            "38"
-        ],
-        "Keep":"keep",
-        "Defition":"community-based outpatient clinics"
-    },
-    {
-        "Definition":[
-            "cognitive behavior therapy",
-            "cognitive\u2013behavioral therapy"
-        ],
-        "Document":[
-            "2",
-            "6",
-            "15"
-        ],
-        "Keep":"keep",
-        "Defition":"cognitive behavior therapy"
-    },
-    {
-        "Definition":"child custody evaluation",
-        "Document":"1",
-        "Keep":"keep",
-        "Defition":"child custody evaluation"
-    },
-    {
-        "Definition":"Council of Chairs of Training Councils",
-        "Document":"11",
-        "Keep":"keep",
-        "Defition":"Council of Chairs of Training Councils"
-    },
-    {
-        "Definition":[
-            "Centers for Disease Control",
-            "Centers for Disease Control and Prevention"
-        ],
-        "Document":[
-            "5",
-            "11"
-        ],
-        "Keep":"keep",
-        "Defition":"Centers for Disease Control and Prevention"
-    },
-    {
-        "Definition":"continuing education",
-        "Document":"2",
-        "Keep":"keep",
-        "Defition":"continuing education"
-    },
-    {
-        "Definition":"confidence interval",
-        "Document":"8",
-        "Keep":"keep",
-        "Defition":"confidence interval"
-    },
-    {
-        "Definition":"Chronic lower respiratory disease",
-        "Document":"14",
-        "Keep":"keep",
-        "Defition":"Chronic lower respiratory disease"
-    },
-    {
-        "Definition":"chronic obstructive pulmonary disease",
-        "Document":"14",
-        "Keep":"keep",
-        "Defition":"chronic obstructive pulmonary disease"
-    },
-    {
-        "Definition":"coronavirus disease 2019",
-        "Document":[
-            "15",
-            "27"
-        ],
-        "Keep":"keep",
-        "Defition":"coronavirus disease 2019"
-    },
-    {
-        "Definition":"cognitive processing therapy",
-        "Document":[
-            "15",
-            "16"
-        ],
-        "Keep":"keep",
-        "Defition":"cognitive processing therapy"
-    },
-    {
-        "Definition":[
-            "clinical video teleconferencing",
-            "clinical video telehealth"
-        ],
-        "Document":[
-            "15",
-            "36",
-            "38"
-        ],
-        "Keep":"keep",
-        "Defition":"clinical video telehealth"
-    },
-    {
-        "Definition":[
-            "disruptive behavior disorders",
-            "Disruptive behavior disorders"
-        ],
-        "Document":[
-            "17",
-            "43"
-        ],
-        "Keep":"keep",
-        "Defition":"Disruptive behavior disorders"
-    },
-    {
-        "Definition":"dialectical behavior therapy",
-        "Document":"35",
-        "Keep":"keep",
-        "Defition":"dialectical behavior therapy"
-    },
-    {
-        "Definition":"Drug Enforcement Administration",
-        "Document":"27",
-        "Keep":"keep",
-        "Defition":"Drug Enforcement Administration"
-    },
-    {
-        "Definition":"Department of Defense",
-        "Document":"16",
-        "Keep":"keep",
-        "Defition":"Department of Defense"
-    },
-    {
-        "Definition":"evidence-based interventions",
-        "Document":"17",
-        "Keep":"keep",
-        "Defition":"evidence-based interventions"
-    },
-    {
-        "Definition":"evidence-based practice",
-        "Document":"36",
-        "Keep":"keep",
-        "Defition":"evidence-based practice"
-    },
-    {
-        "Definition":"evidence-based practices",
-        "Document":"18",
-        "Keep":"keep",
-        "Defition":"evidence-based practices"
-    },
-    {
-        "Definition":"evidence-based treatments",
-        "Document":"15",
-        "Keep":"keep",
-        "Defition":"evidence-based treatments"
-    },
-    {
-        "Definition":"Extension for Community Health Care Outcomes",
-        "Document":"35",
-        "Keep":"keep",
-        "Defition":"Extension for Community Health Care Outcomes"
-    },
-    {
-        "Definition":"European Federation of Psychologists\u2019 Associations",
-        "Document":"5",
-        "Keep":"keep",
-        "Defition":"European Federation of Psychologists\u2019 Associations"
-    },
-    {
-        "Definition":"ecological momentary assessment",
-        "Document":"28",
-        "Keep":"keep",
-        "Defition":"ecological momentary assessment"
-    },
-    {
-        "Definition":"Eye Movement Desensitization and Reprocessing",
-        "Document":"15",
-        "Keep":"keep",
-        "Defition":"Eye Movement Desensitization and Reprocessing"
-    },
-    {
-        "Definition":"electronic medical record",
-        "Document":"3",
-        "Keep":"keep",
-        "Defition":"electronic medical record"
-    },
-    {
-        "Definition":"electronic medical records",
-        "Document":"19",
-        "Keep":"keep",
-        "Defition":"electronic medical records"
-    },
-    {
-        "Definition":"Federal Bureau of Investigation",
-        "Document":"41",
-        "Keep":"keep",
-        "Defition":"Federal Bureau of Investigation"
-    },
-    {
-        "Definition":"Food and Drug Administration",
-        "Document":"16",
-        "Keep":"keep",
-        "Defition":"Food and Drug Administration"
-    },
-    {
-        "Definition":"Family Educational Rights and Privacy Act",
-        "Document":"25",
-        "Keep":"keep",
-        "Defition":"Family Educational Rights and Privacy Act"
-    },
-    {
-        "Definition":"Fidelity of Implementation Rating System",
-        "Document":"17",
-        "Keep":"keep",
-        "Defition":"Fidelity of Implementation Rating System"
-    },
-    {
-        "Definition":"Federal Information Processing Standards",
-        "Document":"38",
-        "Keep":"keep",
-        "Defition":"Federal Information Processing Standards"
-    },
-    {
-        "Definition":"Federally Qualified Health Centers",
-        "Document":"22",
-        "Keep":"keep",
-        "Defition":"Federally Qualified Health Centers"
-    },
-    {
-        "Definition":"federally qualified health centers",
-        "Document":"32",
-        "Keep":"keep",
-        "Defition":"federally qualified health centers"
-    },
-    {
-        "Definition":"face-to-face",
-        "Document":[
-            "0",
-            "16"
-        ],
-        "Keep":"keep",
-        "Defition":"face-to-face"
-    },
-    {
-        "Definition":"fiscal year 2019",
-        "Document":"27",
-        "Keep":"keep",
-        "Defition":"fiscal year 2019"
-    },
-    {
-        "Definition":"Government Communications Headquarters",
-        "Document":"41",
-        "Keep":"keep",
-        "Defition":"Government Communications Headquarters"
-    },
-    {
-        "Definition":[
-            "Health and Human Services\u2019",
-            "Health and Human Services"
-        ],
-        "Document":[
-            "5",
-            "10"
-        ],
-        "Keep":"keep",
-        "Defition":"Health and Human Services"
-    },
-    {
-        "Definition":[
-            "Health Insurance Portability and Accountability Act",
-            "Health Insurance Portability and Accountability Act of 1996",
-            "Health Information Privacy and Accountability Act"
-        ],
-        "Document":[
-            "5",
-            "10",
-            "13",
-            "18",
-            "25",
-            "40"
-        ],
-        "Keep":"keep",
-        "Defition":"Health Insurance Portability and Accountability Act"
-    },
-    {
-        "Definition":[
-            "Health Information Technology for Economic and Clinical Health Act of 2009",
-            "Health Information and Technology for Economic and Clinical Health"
-        ],
-        "Document":[
-            "19",
-            "25"
-        ],
-        "Keep":"keep",
-        "Defition":"Health Information and Technology for Economic and Clinical Health"
-    },
-    {
-        "Definition":"Hierarchical linear modeling",
-        "Document":"43",
-        "Keep":"keep",
-        "Defition":"Hierarchical linear modeling"
-    },
-    {
-        "Definition":"Health Services Research and Development",
-        "Document":"38",
-        "Keep":"keep",
-        "Defition":"Health Services Research and Development"
-    },
-    {
-        "Definition":"hierarchical taxonomy of psychopathology",
-        "Document":"9",
-        "Keep":"keep",
-        "Defition":"hierarchical taxonomy of psychopathology"
-    },
-    {
-        "Definition":"Independent evaluators",
-        "Document":"43",
-        "Keep":"keep",
-        "Defition":"Independent evaluators"
-    },
-    {
-        "Definition":"Internet-guided self-help",
-        "Document":"24",
-        "Keep":"keep",
-        "Defition":"Internet-guided self-help"
-    },
-    {
-        "Definition":"Internet protocol",
-        "Document":"40",
-        "Keep":"keep",
-        "Defition":"Internet protocol"
-    },
-    {
-        "Definition":"interpersonal psychotherapy for substance use",
-        "Document":"2",
-        "Keep":"keep",
-        "Defition":"interpersonal psychotherapy for substance use"
-    },
-    {
-        "Definition":"Institutional Review Board",
-        "Document":[
-            "11",
-            "38"
-        ],
-        "Keep":"keep",
-        "Defition":"Institutional Review Board"
-    },
-    {
-        "Definition":"information technology",
-        "Document":"11",
-        "Keep":"keep",
-        "Defition":"information technology"
-    },
-    {
-        "Definition":"Journal of Psychotherapy Integration",
-        "Document":"9",
-        "Keep":"keep",
-        "Defition":"Journal of Psychotherapy Integration"
-    },
-    {
-        "Definition":"learner management system",
-        "Document":"40",
-        "Keep":"keep",
-        "Defition":"learner management system"
-    },
-    {
-        "Definition":"major depressive disorder",
-        "Document":"15",
-        "Keep":"keep",
-        "Defition":"major depressive disorder"
-    },
-    {
-        "Definition":"Mental Illness Research Education Clinical Centers of Excellence",
-        "Document":"38",
-        "Keep":"keep",
-        "Defition":"Mental Illness Research Education Clinical Centers of Excellence"
-    },
-    {
-        "Definition":"Minnesota Multiphasic Personality Inventory",
-        "Document":[
-            "1",
-            "2",
-            "10"
-        ],
-        "Keep":"keep",
-        "Defition":"Minnesota Multiphasic Personality Inventory"
-    },
-    {
-        "Definition":"National Academy of Neuropsychology",
-        "Document":"2",
-        "Keep":"keep",
-        "Defition":"National Academy of Neuropsychology"
-    },
-    {
-        "Definition":"National Health and Medical Research Council",
-        "Document":"21",
-        "Keep":"keep",
-        "Defition":"National Health and Medical Research Council"
-    },
-    {
-        "Definition":"Not reasonable for foreign nationals\u201d",
-        "Document":"41",
-        "Keep":"keep",
-        "Defition":"Not reasonable for foreign nationals\u201d"
-    },
-    {
-        "Definition":"National Security Agency",
-        "Document":"41",
-        "Keep":"keep",
-        "Defition":"National Security Agency"
-    },
-    {
-        "Definition":"National Telemental Health Center",
-        "Document":"38",
-        "Keep":"keep",
-        "Defition":"National Telemental Health Center"
-    },
-    {
-        "Definition":[
-            "obsessive compulsive disorder",
-            "obsessive-compulsive disorder"
-        ],
-        "Document":[
-            "0",
-            "40"
-        ],
-        "Keep":"keep",
-        "Defition":"obsessive-compulsive disorder"
-    },
-    {
-        "Definition":"Office for Civil Rights",
-        "Document":"5",
-        "Keep":"keep",
-        "Defition":"Office for Civil Rights"
-    },
-    {
-        "Definition":"parent\u2013child interaction therapy",
-        "Document":"1",
-        "Keep":"keep",
-        "Defition":"parent\u2013child interaction therapy"
-    },
-    {
-        "Definition":"PTSD Checklist",
-        "Document":"0",
-        "Keep":"keep",
-        "Defition":"PTSD Checklist"
-    },
-    {
-        "Definition":"primary care providers",
-        "Document":"39",
-        "Keep":"keep",
-        "Defition":"primary care providers"
-    },
-    {
-        "Definition":"prolonged exposure",
-        "Document":"15",
-        "Keep":"keep",
-        "Defition":"prolonged exposure"
-    },
-    {
-        "Definition":[
-            "Protected Health Information",
-            "protected health information"
-        ],
-        "Document":[
-            "13",
-            "19",
-            "25",
-            "41"
-        ],
-        "Keep":"keep",
-        "Defition":"protected health information"
-    },
-    {
-        "Definition":"Patient Health Questionnaire-9",
-        "Document":"0",
-        "Keep":"keep",
-        "Defition":"Patient Health Questionnaire-9"
-    },
-    {
-        "Definition":[
-            "Practice Innovations",
-            "Principal Investigator"
-        ],
-        "Document":[
-            "9",
-            "38"
-        ],
-        "Keep":"keep",
-        "Defition":"Principal Investigator"
-    },
-    {
-        "Definition":"population, intervention, comparison, and outcome",
-        "Document":"21",
-        "Keep":"keep",
-        "Defition":"population, intervention, comparison, and outcome"
-    },
-    {
-        "Definition":"point of contact",
-        "Document":[
-            "35",
-            "38"
-        ],
-        "Keep":"keep",
-        "Defition":"point of contact"
-    },
-    {
-        "Definition":"Peace Officer Standards and Training",
-        "Document":"10",
-        "Keep":"keep",
-        "Defition":"Peace Officer Standards and Training"
-    },
-    {
-        "Definition":"Psychology Interjurisdictional Compact",
-        "Document":[
-            "13",
-            "18",
-            "24",
-            "31"
-        ],
-        "Keep":"keep",
-        "Defition":"Psychology Interjurisdictional Compact"
-    },
-    {
-        "Definition":[
-            "posttraumatic stress disorder",
-            "Post-Traumatic Stress Disorder"
-        ],
-        "Document":[
-            "0",
-            "6",
-            "12",
-            "15",
-            "21",
-            "27",
-            "34",
-            "35",
-            "36",
-            "38",
-            "42"
-        ],
-        "Keep":"keep",
-        "Defition":"Post-Traumatic Stress Disorder"
-    },
-    {
-        "Definition":[
-            "Quality Improvement",
-            "quality improvement"
-        ],
-        "Document":[
-            "28",
-            "38"
-        ],
-        "Keep":"keep",
-        "Defition":"quality improvement"
-    },
-    {
-        "Definition":"remote child custody evaluations",
-        "Document":"1",
-        "Keep":"keep",
-        "Defition":"remote child custody evaluations"
-    },
-    {
-        "Definition":[
-            "randomized clinical trial",
-            "randomized controlled trial"
-        ],
-        "Document":[
-            "0",
-            "31",
-            "40"
-        ],
-        "Keep":"keep",
-        "Defition":"randomized controlled trial"
-    },
-    {
-        "Definition":[
-            "randomized clinical trials",
-            "randomized controlled trials"
-        ],
-        "Document":[
-            "18",
-            "21",
-            "27"
-        ],
-        "Keep":"keep",
-        "Defition":"randomized controlled trials"
-    },
-    {
-        "Definition":"rapid evidence assessment",
-        "Document":"21",
-        "Keep":"keep",
-        "Defition":"rapid evidence assessment"
-    },
-    {
-        "Definition":"rural health clinics",
-        "Document":"32",
-        "Keep":"keep",
-        "Defition":"rural health clinics"
-    },
-    {
-        "Definition":"routine outcome monitoring",
-        "Document":"11",
-        "Keep":"keep",
-        "Defition":"routine outcome monitoring"
-    },
-    {
-        "Definition":"Remote On-Screen Administration",
-        "Document":"10",
-        "Keep":"keep",
-        "Defition":"Remote On-Screen Administration"
-    },
-    {
-        "Definition":"severe acute respiratory syndrome",
-        "Document":"15",
-        "Keep":"keep",
-        "Defition":"severe acute respiratory syndrome"
-    },
-    {
-        "Definition":"Symptom Checklist-90-Revised",
-        "Document":"0",
-        "Keep":"keep",
-        "Defition":"Symptom Checklist-90-Revised"
-    },
-    {
-        "Definition":"socioeconomic status",
-        "Document":"13",
-        "Keep":"keep",
-        "Defition":"socioeconomic status"
-    },
-    {
-        "Definition":"smallest effect size of interest",
-        "Document":"8",
-        "Keep":"keep",
-        "Defition":"smallest effect size of interest"
-    },
-    {
-        "Definition":"service members",
-        "Document":"16",
-        "Keep":"keep",
-        "Defition":"service members"
-    },
-    {
-        "Definition":"standard operating procedures",
-        "Document":"38",
-        "Keep":"keep",
-        "Defition":"standard operating procedures"
-    },
-    {
-        "Definition":"System Usability Scale",
-        "Document":"17",
-        "Keep":"keep",
-        "Defition":"System Usability Scale"
-    },
-    {
-        "Definition":"technology-assisted supervision and training",
-        "Document":"36",
-        "Keep":"keep",
-        "Defition":"technology-assisted supervision and training"
-    },
-    {
-        "Definition":"Telemedicine and Advanced Technology Research Center",
-        "Document":"16",
-        "Keep":"keep",
-        "Defition":"Telemedicine and Advanced Technology Research Center"
-    },
-    {
-        "Definition":[
-            "treatments as usual",
-            "treatment as usual",
-            "treatment as usual\u201d"
-        ],
-        "Document":[
-            "0",
-            "21",
-            "40"
-        ],
-        "Keep":"keep",
-        "Defition":"treatment as usual\u201d"
-    },
-    {
-        "Definition":"telehealth clinical technician",
-        "Document":"35",
-        "Keep":"keep",
-        "Defition":"telehealth clinical technician"
-    },
-    {
-        "Definition":"Telehealth Clinical Technicians",
-        "Document":"38",
-        "Keep":"keep",
-        "Defition":"Telehealth Clinical Technicians"
-    },
-    {
-        "Definition":[
-            "telemental health",
-            "Telemental health"
-        ],
-        "Document":[
-            "32",
-            "35",
-            "36",
-            "38"
-        ],
-        "Keep":"keep",
-        "Defition":"Telemental health"
-    },
-    {
-        "Definition":"telemental health therapy",
-        "Document":"41",
-        "Keep":"keep",
-        "Defition":"telemental health therapy"
-    },
-    {
-        "Definition":"Telehealth Outreach Program",
-        "Document":"34",
-        "Keep":"keep",
-        "Defition":"Telehealth Outreach Program"
-    },
-    {
-        "Definition":"Teen Online Problem Solving",
-        "Document":"20",
-        "Keep":"keep",
-        "Defition":"Teen Online Problem Solving"
-    },
-    {
-        "Definition":"two-one-sided-tests",
-        "Document":"8",
-        "Keep":"keep",
-        "Defition":"two-one-sided-tests"
-    },
-    {
-        "Definition":"Telehealth Outreach Worker",
-        "Document":"42",
-        "Keep":"keep",
-        "Defition":"Telehealth Outreach Worker"
-    },
-    {
-        "Definition":"Tribal Veterans Representative",
-        "Document":"42",
-        "Keep":"keep",
-        "Defition":"Tribal Veterans Representative"
-    },
-    {
-        "Definition":"the American Insurance Trust",
-        "Document":"13",
-        "Keep":"keep",
-        "Defition":"the American Insurance Trust"
-    },
-    {
-        "Definition":"Trust",
-        "Document":"19",
-        "Keep":"keep",
-        "Defition":"Trust"
-    },
-    {
-        "Definition":"University of Washington",
-        "Document":"2",
-        "Keep":"keep",
-        "Defition":"University of Washington"
-    },
-    {
-        "Definition":[
-            "Veterans Affairs",
-            "Veteran Affairs"
-        ],
-        "Document":[
-            "2",
-            "5",
-            "6",
-            "16",
-            "18",
-            "29",
-            "35",
-            "38",
-            "41",
-            "42"
-        ],
-        "Keep":"keep",
-        "Defition":"Veterans Affairs"
-    },
-    {
-        "Definition":"Veterans Affairs Medical Center",
-        "Document":"38",
-        "Keep":"keep",
-        "Defition":"Veterans Affairs Medical Center"
-    },
-    {
-        "Definition":"TMH.VA Pacific Islands Health Care System",
-        "Document":"36",
-        "Keep":"keep",
-        "Defition":"TMH.VA Pacific Islands Health Care System"
-    },
-    {
-        "Definition":"videoconferencing",
-        "Document":"1",
-        "Keep":"keep",
-        "Defition":"videoconferencing"
-    },
-    {
-        "Definition":[
-            "Veterans Health Administration",
-            "Veterans Healthcare Administration",
-            "Veteran\u2019s Health Administration\u2019s",
-            "Veteran\u2019s Health Administration"
-        ],
-        "Document":[
-            "5",
-            "27",
-            "29",
-            "35",
-            "38"
-        ],
-        "Keep":"keep",
-        "Defition":"Veteran\u2019s Health Administration"
-    },
-    {
-        "Definition":"VHA Office of Rural Health",
-        "Document":"38",
-        "Keep":"keep",
-        "Defition":"VHA Office of Rural Health"
-    },
-    {
-        "Definition":"Variance inflation factors",
-        "Document":"37",
-        "Keep":"keep",
-        "Defition":"Variance inflation factors"
-    },
-    {
-        "Definition":"Veterans Integrated Service Network",
-        "Document":"38",
-        "Keep":"keep",
-        "Defition":"Veterans Integrated Service Network"
-    },
-    {
-        "Definition":"Virtual Medical Room",
-        "Document":"38",
-        "Keep":"keep",
-        "Defition":"Virtual Medical Room"
-    },
-    {
-        "Definition":"virtual private network",
-        "Document":"11",
-        "Keep":"keep",
-        "Defition":"virtual private network"
-    },
-    {
-        "Definition":"virtual private networks",
-        "Document":"3",
-        "Keep":"keep",
-        "Defition":"virtual private networks"
-    },
-    {
-        "Definition":[
-            "video teleconferencing",
-            "videoteleconferencing"
-        ],
-        "Document":[
-            "16",
-            "43"
-        ],
-        "Keep":"keep",
-        "Defition":"videoteleconferencing"
-    },
-    {
-        "Definition":"VA Video Connect",
-        "Document":"27",
-        "Keep":"keep",
-        "Defition":"VA Video Connect"
-    },
-    {
-        "Definition":"World Health Organization",
-        "Document":[
-            "5",
-            "6",
-            "11"
-        ],
-        "Keep":"keep",
-        "Defition":"World Health Organization"
-    },
-    {
-        "Definition":"client",
-        "Document":"32",
-        "Keep":"keep",
-        "Defition":"client"
-    },
-    {
-        "Definition":"codes",
-        "Document":"27",
-        "Keep":"keep",
-        "Defition":"codes"
-    },
-    {
-        "Definition":"devices",
-        "Document":"40",
-        "Keep":"keep",
-        "Defition":"devices"
-    },
-    {
-        "Definition":"electronic patient health information",
-        "Document":"18",
-        "Keep":"keep",
-        "Defition":"electronic patient health information"
-    },
-    {
-        "Definition":"group",
-        "Document":"0",
-        "Keep":"keep",
-        "Defition":"group"
-    },
-    {
-        "Definition":"logs",
-        "Document":"16",
-        "Keep":"keep",
-        "Defition":"logs"
-    },
-    {
-        "Definition":"Providers",
-        "Document":"41",
-        "Keep":"keep",
-        "Defition":"Providers"
-    },
-    {
-        "Definition":"results",
-        "Document":"21",
-        "Keep":"keep",
-        "Defition":"results"
-    },
-    {
-        "Definition":"settings",
-        "Document":"15",
-        "Keep":"keep",
-        "Defition":"settings"
-    },
-    {
-        "Definition":[
-            "studies per analysis",
-            "studies"
-        ],
-        "Document":[
-            "0",
-            "15"
-        ],
-        "Keep":"keep",
-        "Defition":"studies"
-    },
-    {
-        "Definition":"Telemental health measurement-based care",
-        "Document":"32",
-        "Keep":"keep",
-        "Defition":"Telemental health measurement-based care"
-    },
-    {
-        "Definition":"tests",
-        "Document":[
-            "8",
-            "11"
-        ],
-        "Keep":"keep",
-        "Defition":"tests"
-    },
-    {
-        "Definition":"work relative value units",
-        "Document":"38",
-        "Keep":"keep",
-        "Defition":"work relative value units"
-    },
-    {
-        "Definition":"World Health Organization, 2020",
-        "Document":"2",
-        "Keep":"keep",
-        "Defition":"World Health Organization, 2020"
+{
+    "PTSD": {
+        "LongForm": "posttraumatic stress disorder",
+        "Document": [
+            0,
+            34,
+            35,
+            36,
+            6,
+            38,
+            42,
+            12,
+            15,
+            21,
+            27
+        ]
+    },
+    "FTF": {
+        "LongForm": "face-to-face",
+        "Document": [
+            0,
+            16
+        ]
+    },
+    "TAU": {
+        "LongForm": "treatments as usual",
+        "Document": [
+            0,
+            40,
+            21
+        ]
+    },
+    "PCL": {
+        "LongForm": "PTSD Checklist",
+        "Document": [
+            0
+        ]
+    },
+    "BDI": {
+        "LongForm": "Beck Depression Inventory",
+        "Document": [
+            0
+        ]
+    },
+    "CAPS": {
+        "LongForm": "Clinician-Administered PTSD Scale",
+        "Document": [
+            0,
+            20
+        ]
+    },
+    "SCL": {
+        "LongForm": "Symptom Checklist-90-Revised",
+        "Document": [
+            0
+        ]
+    },
+    "PHQ": {
+        "LongForm": "Patient Health Questionnaire-9",
+        "Document": [
+            0
+        ]
+    },
+    "group": {
+        "LongForm": "group",
+        "Document": [
+            0
+        ]
+    },
+    "RCT": {
+        "LongForm": "randomized clinical trial",
+        "Document": [
+            0,
+            40,
+            31
+        ]
+    },
+    "studies": {
+        "LongForm": "studies per analysis",
+        "Document": [
+            0,
+            15
+        ]
+    },
+    "OCD": {
+        "LongForm": "obsessive compulsive disorder",
+        "Document": [
+            0,
+            40
+        ]
+    },
+    "CCE": {
+        "LongForm": "child custody evaluation",
+        "Document": [
+            1
+        ]
+    },
+    "RCCEs": {
+        "LongForm": "remote child custody evaluations",
+        "Document": [
+            1
+        ]
+    },
+    "VC": {
+        "LongForm": "videoconferencing",
+        "Document": [
+            1
+        ]
+    },
+    "and RCCEs": {
+        "LongForm": "and discriminant validity. In CCEs",
+        "Document": [
+            1
+        ]
+    },
+    "VCP": {
+        "LongForm": "VC psychotherapy",
+        "Document": [
+            1
+        ]
+    },
+    "MMPI": {
+        "LongForm": "Minnesota Multiphasic Personality Inventory",
+        "Document": [
+            1,
+            2,
+            10
+        ]
+    },
+    "ATA": {
+        "LongForm": "American Telemedicine Association",
+        "Document": [
+            1
+        ]
+    },
+    "PCIT": {
+        "LongForm": "parent\u2013child interaction therapy",
+        "Document": [
+            1
+        ]
+    },
+    "world": {
+        "LongForm": "World Health Organization, 2020",
+        "Document": [
+            2
+        ]
+    },
+    "APA": {
+        "LongForm": "American Psychological Association",
+        "Document": [
+            18,
+            2,
+            13,
+            5
+        ]
+    },
+    "IPT": {
+        "LongForm": "interpersonal psychotherapy for substance use",
+        "Document": [
+            2
+        ]
+    },
+    "VA": {
+        "LongForm": "Veterans Affairs",
+        "Document": [
+            2,
+            35,
+            5,
+            6,
+            38,
+            41,
+            42,
+            16,
+            18,
+            29
+        ]
+    },
+    "CALM": {
+        "LongForm": "Cognitive Applications for Life Management",
+        "Document": [
+            2
+        ]
+    },
+    "CBT": {
+        "LongForm": "cognitive behavior therapy",
+        "Document": [
+            2,
+            6,
+            15
+        ]
+    },
+    "DRP": {
+        "LongForm": "Drexel Reentry Project",
+        "Document": [
+            2
+        ]
+    },
+    "AACN": {
+        "LongForm": "Academy of Clinical Neuropsychology",
+        "Document": [
+            2
+        ]
+    },
+    "NAN": {
+        "LongForm": "National Academy of Neuropsychology",
+        "Document": [
+            2
+        ]
+    },
+    "ABN": {
+        "LongForm": "American Board of Professional Neuropsychology",
+        "Document": [
+            2
+        ]
+    },
+    "UW": {
+        "LongForm": "University of Washington",
+        "Document": [
+            2
+        ]
+    },
+    "CE": {
+        "LongForm": "continuing education",
+        "Document": [
+            2
+        ]
+    },
+    "EMR": {
+        "LongForm": "electronic medical record",
+        "Document": [
+            3
+        ]
+    },
+    "VPNs": {
+        "LongForm": "virtual private networks",
+        "Document": [
+            3
+        ]
+    },
+    "BAA": {
+        "LongForm": "business association agreements",
+        "Document": [
+            3
+        ]
+    },
+    "WHO": {
+        "LongForm": "World Health Organization",
+        "Document": [
+            11,
+            5,
+            6
+        ]
+    },
+    "CDC": {
+        "LongForm": "Centers for Disease Control",
+        "Document": [
+            11,
+            5
+        ]
+    },
+    "ACS": {
+        "LongForm": "American College of Surgeons",
+        "Document": [
+            5
+        ]
+    },
+    "VHA": {
+        "LongForm": "Veterans Health Administration",
+        "Document": [
+            35,
+            5,
+            38,
+            27,
+            29
+        ]
+    },
+    "HIPAA": {
+        "LongForm": "Health Insurance Portability and Accountability Act",
+        "Document": [
+            5,
+            40,
+            10,
+            13,
+            18,
+            25
+        ]
+    },
+    "HHS": {
+        "LongForm": "Health and Human Services\u2019",
+        "Document": [
+            10,
+            5
+        ]
+    },
+    "OCR": {
+        "LongForm": "Office for Civil Rights",
+        "Document": [
+            5
+        ]
+    },
+    "APPIC": {
+        "LongForm": "Association of Psychology Postdoctoral and Internship Centers",
+        "Document": [
+            11,
+            5
+        ]
+    },
+    "EFPA": {
+        "LongForm": "European Federation of Psychologists\u2019 Associations",
+        "Document": [
+            5
+        ]
+    },
+    "APS": {
+        "LongForm": "Australian Psychological Society",
+        "Document": [
+            5
+        ]
+    },
+    "Strongly Agree": {
+        "LongForm": "Strongly Disagree) to 7",
+        "Document": [
+            5
+        ]
+    },
+    "ANOVA": {
+        "LongForm": "analysis of variance",
+        "Document": [
+            5
+        ]
+    },
+    "man": {
+        "LongForm": "masculine gender",
+        "Document": [
+            6
+        ]
+    },
+    "health": {
+        "LongForm": "health research",
+        "Document": [
+            7
+        ]
+    },
+    "present": {
+        "LongForm": "present study",
+        "Document": [
+            8
+        ]
+    },
+    "tests": {
+        "LongForm": "tests",
+        "Document": [
+            8,
+            11
+        ]
+    },
+    "TOST": {
+        "LongForm": "two-one-sided-tests",
+        "Document": [
+            8
+        ]
+    },
+    "CI": {
+        "LongForm": "confidence interval",
+        "Document": [
+            8
+        ]
+    },
+    "SESOI": {
+        "LongForm": "smallest effect size of interest",
+        "Document": [
+            8
+        ]
+    },
+    "JPI": {
+        "LongForm": "Journal of Psychotherapy Integration",
+        "Document": [
+            9
+        ]
+    },
+    "HiTOP": {
+        "LongForm": "hierarchical taxonomy of psychopathology",
+        "Document": [
+            9
+        ]
+    },
+    "PI": {
+        "LongForm": "Practice Innovations",
+        "Document": [
+            9,
+            38
+        ]
+    },
+    "Joint Task Force": {
+        "LongForm": "Joint Task Force for the Development of Telepsychology Guidelines for Psychologists",
+        "Document": [
+            10
+        ]
+    },
+    "ROSA": {
+        "LongForm": "Remote On-Screen Administration",
+        "Document": [
+            10
+        ]
+    },
+    "POST": {
+        "LongForm": "Peace Officer Standards and Training",
+        "Document": [
+            10
+        ]
+    },
+    "APTC": {
+        "LongForm": "Association of Psychology Training Clinics",
+        "Document": [
+            11
+        ]
+    },
+    "IT": {
+        "LongForm": "information technology",
+        "Document": [
+            11
+        ]
+    },
+    "VPN": {
+        "LongForm": "virtual private network",
+        "Document": [
+            11
+        ]
+    },
+    "CCTC": {
+        "LongForm": "Council of Chairs of Training Councils",
+        "Document": [
+            11
+        ]
+    },
+    "ASPPB": {
+        "LongForm": "Association of State and Provincial Psychology Boards",
+        "Document": [
+            41,
+            11,
+            13,
+            18,
+            19,
+            25
+        ]
+    },
+    "ROM": {
+        "LongForm": "routine outcome monitoring",
+        "Document": [
+            11
+        ]
+    },
+    "IRB": {
+        "LongForm": "Institutional Review Board",
+        "Document": [
+            11,
+            38
+        ]
+    },
+    "here": {
+        "LongForm": "Hoover, Merenbloom, & Johnson, 2018",
+        "Document": [
+            12
+        ]
+    },
+    "PHI": {
+        "LongForm": "Protected Health Information",
+        "Document": [
+            25,
+            19,
+            13,
+            41
+        ]
+    },
+    "PSYPACT": {
+        "LongForm": "Psychology Interjurisdictional Compact",
+        "Document": [
+            24,
+            18,
+            13,
+            31
+        ]
+    },
+    "The Trust": {
+        "LongForm": "the American Insurance Trust",
+        "Document": [
+            13
+        ]
+    },
+    "SES": {
+        "LongForm": "socioeconomic status",
+        "Document": [
+            13
+        ]
+    },
+    "CLRD": {
+        "LongForm": "Chronic lower respiratory disease",
+        "Document": [
+            14
+        ]
+    },
+    "COPD": {
+        "LongForm": "chronic obstructive pulmonary disease",
+        "Document": [
+            14
+        ]
+    },
+    "COVID-19": {
+        "LongForm": "coronavirus disease 2019",
+        "Document": [
+            27,
+            15
+        ]
+    },
+    "EBTs": {
+        "LongForm": "evidence-based treatments",
+        "Document": [
+            15
+        ]
+    },
+    "SARS": {
+        "LongForm": "severe acute respiratory syndrome",
+        "Document": [
+            15
+        ]
+    },
+    "setting": {
+        "LongForm": "settings",
+        "Document": [
+            15
+        ]
+    },
+    "CVT": {
+        "LongForm": "clinical video teleconferencing",
+        "Document": [
+            36,
+            38,
+            15
+        ]
+    },
+    "CPT": {
+        "LongForm": "cognitive processing therapy",
+        "Document": [
+            16,
+            15
+        ]
+    },
+    "PE": {
+        "LongForm": "prolonged exposure",
+        "Document": [
+            15
+        ]
+    },
+    "MDD": {
+        "LongForm": "major depressive disorder",
+        "Document": [
+            15
+        ]
+    },
+    "EMDR": {
+        "LongForm": "Eye Movement Desensitization and Reprocessing",
+        "Document": [
+            15
+        ]
+    },
+    "DoD": {
+        "LongForm": "Department of Defense",
+        "Document": [
+            16
+        ]
+    },
+    "VTC": {
+        "LongForm": "video teleconferencing",
+        "Document": [
+            16,
+            43
+        ]
+    },
+    "logs": {
+        "LongForm": "logs",
+        "Document": [
+            16
+        ]
+    },
+    "SMs": {
+        "LongForm": "service members",
+        "Document": [
+            16
+        ]
+    },
+    "CAMS": {
+        "LongForm": "Collaborative Assessment and Management of Suicidality",
+        "Document": [
+            16
+        ]
+    },
+    "TATRC": {
+        "LongForm": "Telemedicine and Advanced Technology Research Center",
+        "Document": [
+            16
+        ]
+    },
+    "FDA": {
+        "LongForm": "Food and Drug Administration",
+        "Document": [
+            16
+        ]
+    },
+    "committee": {
+        "LongForm": "committee + reference number",
+        "Document": [
+            16
+        ]
+    },
+    "DBDs": {
+        "LongForm": "disruptive behavior disorders",
+        "Document": [
+            17,
+            43
+        ]
+    },
+    "BPT": {
+        "LongForm": "Behavioral parent training",
+        "Document": [
+            17
+        ]
+    },
+    "EBIs": {
+        "LongForm": "evidence-based interventions",
+        "Document": [
+            17
+        ]
+    },
+    "FIMP": {
+        "LongForm": "Fidelity of Implementation Rating System",
+        "Document": [
+            17
+        ]
+    },
+    "SUS": {
+        "LongForm": "System Usability Scale",
+        "Document": [
+            17
+        ]
+    },
+    "RCTs": {
+        "LongForm": "randomized clinical trials",
+        "Document": [
+            18,
+            27,
+            21
+        ]
+    },
+    "BBS": {
+        "LongForm": "Board of Behavioral Sciences",
+        "Document": [
+            18
+        ]
+    },
+    "ePHI": {
+        "LongForm": "electronic patient health information",
+        "Document": [
+            18
+        ]
+    },
+    "EBPs": {
+        "LongForm": "evidence-based practices",
+        "Document": [
+            18
+        ]
+    },
+    "EMRs": {
+        "LongForm": "electronic medical records",
+        "Document": [
+            19
+        ]
+    },
+    "BAAs": {
+        "LongForm": "business associate agreements",
+        "Document": [
+            19
+        ]
+    },
+    "HITECH": {
+        "LongForm": "Health Information Technology for Economic and Clinical Health Act of 2009",
+        "Document": [
+            25,
+            19
+        ]
+    },
+    "ADHD": {
+        "LongForm": "attention deficit hyperactivity disorder",
+        "Document": [
+            19
+        ]
+    },
+    "Trust": {
+        "LongForm": "Trust",
+        "Document": [
+            19
+        ]
+    },
+    "TOPS": {
+        "LongForm": "Teen Online Problem Solving",
+        "Document": [
+            20
+        ]
+    },
+    "REA": {
+        "LongForm": "rapid evidence assessment",
+        "Document": [
+            21
+        ]
+    },
+    "PICO": {
+        "LongForm": "population, intervention, comparison, and outcome",
+        "Document": [
+            21
+        ]
+    },
+    "NHMRC": {
+        "LongForm": "National Health and Medical Research Council",
+        "Document": [
+            21
+        ]
+    },
+    "results": {
+        "LongForm": "results",
+        "Document": [
+            21
+        ]
+    },
+    "FQHC": {
+        "LongForm": "Federally Qualified Health Centers",
+        "Document": [
+            22
+        ]
+    },
+    "IGSH": {
+        "LongForm": "Internet-guided self-help",
+        "Document": [
+            24
+        ]
+    },
+    "Code": {
+        "LongForm": "confidentiality, informed consent",
+        "Document": [
+            25
+        ]
+    },
+    "FERPA": {
+        "LongForm": "Family Educational Rights and Privacy Act",
+        "Document": [
+            25
+        ]
+    },
+    "VVC": {
+        "LongForm": "VA Video Connect",
+        "Document": [
+            27
+        ]
+    },
+    "FY19": {
+        "LongForm": "fiscal year 2019",
+        "Document": [
+            27
+        ]
+    },
+    "codes": {
+        "LongForm": "codes",
+        "Document": [
+            27
+        ]
+    },
+    "DEA": {
+        "LongForm": "Drug Enforcement Administration",
+        "Document": [
+            27
+        ]
+    },
+    "BH": {
+        "LongForm": "Behavioral health",
+        "Document": [
+            28
+        ]
+    },
+    "ACGME": {
+        "LongForm": "Accreditation Council of Graduate Medical Education",
+        "Document": [
+            28
+        ]
+    },
+    "EMA": {
+        "LongForm": "ecological momentary assessment",
+        "Document": [
+            28
+        ]
+    },
+    "QI": {
+        "LongForm": "Quality Improvement",
+        "Document": [
+            28,
+            38
+        ]
+    },
+    "TMH": {
+        "LongForm": "telemental health",
+        "Document": [
+            32,
+            35,
+            36,
+            38
+        ]
+    },
+    "tMBC": {
+        "LongForm": "Telemental health measurement-based care",
+        "Document": [
+            32
+        ]
+    },
+    "SMS": {
+        "LongForm": "Sending links by text message",
+        "Document": [
+            32
+        ]
+    },
+    "Mirah": {
+        "LongForm": "https://www.mirah.com/), OQ Analyst (https://www.oqmeasures.com/",
+        "Document": [
+            32
+        ]
+    },
+    "client": {
+        "LongForm": "client",
+        "Document": [
+            32
+        ]
+    },
+    "CARES": {
+        "LongForm": "Coronavirus Aid, Relief, and Economic Security",
+        "Document": [
+            32
+        ]
+    },
+    "FQHCs": {
+        "LongForm": "federally qualified health centers",
+        "Document": [
+            32
+        ]
+    },
+    "RHCs": {
+        "LongForm": "rural health clinics",
+        "Document": [
+            32
+        ]
+    },
+    "Boards": {
+        "LongForm": "Boards, 2012",
+        "Document": [
+            33
+        ]
+    },
+    "TOP": {
+        "LongForm": "Telehealth Outreach Program",
+        "Document": [
+            34
+        ]
+    },
+    "Vidyo": {
+        "LongForm": "Vidyo Inc., 2010",
+        "Document": [
+            34
+        ]
+    },
+    "CBOCs": {
+        "LongForm": "community-based outpatient clinics",
+        "Document": [
+            35,
+            38
+        ]
+    },
+    "VA NYH": {
+        "LongForm": "VA NY Harbor Health Care System",
+        "Document": [
+            35,
+            38
+        ]
+    },
+    "DBT": {
+        "LongForm": "dialectical behavior therapy",
+        "Document": [
+            35
+        ]
+    },
+    "TCT": {
+        "LongForm": "telehealth clinical technician",
+        "Document": [
+            35
+        ]
+    },
+    "POC": {
+        "LongForm": "point of contact",
+        "Document": [
+            35,
+            38
+        ]
+    },
+    "ECHO": {
+        "LongForm": "Extension for Community Health Care Outcomes",
+        "Document": [
+            35
+        ]
+    },
+    "veterans": {
+        "LongForm": "Veterans Affairs, 2018a",
+        "Document": [
+            36
+        ]
+    },
+    "VA OAA": {
+        "LongForm": "VA is governed by the Office of Academic Affiliations",
+        "Document": [
+            36
+        ]
+    },
+    "OAA": {
+        "LongForm": "of Veterans Affairs, 2015",
+        "Document": [
+            36
+        ]
+    },
+    "TAST": {
+        "LongForm": "technology-assisted supervision and training",
+        "Document": [
+            36
+        ]
+    },
+    "EBP": {
+        "LongForm": "evidence-based practice",
+        "Document": [
+            36
+        ]
+    },
+    "VAPIHCS": {
+        "LongForm": "TMH.VA Pacific Islands Health Care System",
+        "Document": [
+            36
+        ]
+    },
+    "Affairs": {
+        "LongForm": "Affairs, 2018a",
+        "Document": [
+            36
+        ]
+    },
+    "to": {
+        "LongForm": "times located within",
+        "Document": [
+            36
+        ]
+    },
+    "VIFs": {
+        "LongForm": "Variance inflation factors",
+        "Document": [
+            37
+        ]
+    },
+    "FIPS": {
+        "LongForm": "Federal Information Processing Standards",
+        "Document": [
+            38
+        ]
+    },
+    "NTMHC": {
+        "LongForm": "National Telemental Health Center",
+        "Document": [
+            38
+        ]
+    },
+    "VAMC": {
+        "LongForm": "Veterans Affairs Medical Center",
+        "Document": [
+            38
+        ]
+    },
+    "VHA ORH": {
+        "LongForm": "VHA Office of Rural Health",
+        "Document": [
+            38
+        ]
+    },
+    "VMR": {
+        "LongForm": "Virtual Medical Room",
+        "Document": [
+            38
+        ]
+    },
+    "VISN": {
+        "LongForm": "Veterans Integrated Service Network",
+        "Document": [
+            38
+        ]
+    },
+    "wRVU": {
+        "LongForm": "work relative value units",
+        "Document": [
+            38
+        ]
+    },
+    "SOPs": {
+        "LongForm": "standard operating procedures",
+        "Document": [
+            38
+        ]
+    },
+    "MIRECC": {
+        "LongForm": "Mental Illness Research Education Clinical Centers of Excellence",
+        "Document": [
+            38
+        ]
+    },
+    "TCTs": {
+        "LongForm": "Telehealth Clinical Technicians",
+        "Document": [
+            38
+        ]
+    },
+    "HSR&D": {
+        "LongForm": "Health Services Research and Development",
+        "Document": [
+            38
+        ]
+    },
+    "PCPs": {
+        "LongForm": "primary care providers",
+        "Document": [
+            39
+        ]
+    },
+    "BITs": {
+        "LongForm": "behavioral intervention technologies",
+        "Document": [
+            40
+        ]
+    },
+    "IP": {
+        "LongForm": "Internet protocol",
+        "Document": [
+            40
+        ]
+    },
+    "devices": {
+        "LongForm": "devices",
+        "Document": [
+            40
+        ]
+    },
+    "LMS": {
+        "LongForm": "learner management system",
+        "Document": [
+            40
+        ]
+    },
+    "fit": {
+        "LongForm": "for participants who are not technologically savvy",
+        "Document": [
+            40
+        ]
+    },
+    "TMHT": {
+        "LongForm": "telemental health therapy",
+        "Document": [
+            41
+        ]
+    },
+    "NSA": {
+        "LongForm": "National Security Agency",
+        "Document": [
+            41
+        ]
+    },
+    "Nebraska": {
+        "LongForm": "Nebraska Statewide TeleHealth Network, 2006",
+        "Document": [
+            41
+        ]
+    },
+    "Missouri": {
+        "LongForm": "Missouri Telehealth Network, 2015",
+        "Document": [
+            41
+        ]
+    },
+    "NOFORN": {
+        "LongForm": "Not reasonable for foreign nationals\u201d",
+        "Document": [
+            41
+        ]
+    },
+    "GCHQ": {
+        "LongForm": "Government Communications Headquarters",
+        "Document": [
+            41
+        ]
+    },
+    "FBI": {
+        "LongForm": "Federal Bureau of Investigation",
+        "Document": [
+            41
+        ]
+    },
+    "providers": {
+        "LongForm": "Providers",
+        "Document": [
+            41
+        ]
+    },
+    "standards": {
+        "LongForm": "Standards 3.10 and 10.01",
+        "Document": [
+            41
+        ]
+    },
+    "AITMH": {
+        "LongForm": "American Indian Telemental Health",
+        "Document": [
+            42
+        ]
+    },
+    "TOW": {
+        "LongForm": "Telehealth Outreach Worker",
+        "Document": [
+            42
+        ]
+    },
+    "TVR": {
+        "LongForm": "Tribal Veterans Representative",
+        "Document": [
+            42
+        ]
+    },
+    "IEs": {
+        "LongForm": "Independent evaluators",
+        "Document": [
+            43
+        ]
+    },
+    "HLM": {
+        "LongForm": "Hierarchical linear modeling",
+        "Document": [
+            43
+        ]
     }
-]
+}
