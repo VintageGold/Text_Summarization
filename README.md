@@ -10,6 +10,7 @@ For the Implementation of the code we recommend to have the following libraries:
   - Matplotlib
   - String
   - Spacy
+  - SciSpacy
   - Genism
   - Rake-nltk
   - sklearn
