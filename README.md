@@ -18,10 +18,10 @@ topic modelling, text similarity analysis and more to perform a review of the li
 # Example Findings:
 
 Frequency Counts of Unigrams, Bigrams, and Trigrams Before the COVID-19 Pandemic: (2017-2019):
-![Frequency Counts Before the COVID-19 Pandemic: (2017-2019)](./Images/pre_covid_freq_counts.png)
+![Frequency Counts Before the COVID-19 Pandemic: (2017-2019)](./Images/pre_covid_freq_count.png)
 
 Frequency Counts of Unigrams, Bigrams, and Trigrams During the COVID-19 Pandemic: (2020-2021):
-![Frequency Counts During COVID-19 Pandemic: (2020-2021)](./Images/covid_freq_counts.png)
+![Frequency Counts During COVID-19 Pandemic: (2020-2021)](./Images/covid_freq_count.png)
 
 ## Implementation Instructions
 For the Implementation of the code we recommend to have the following libraries:
