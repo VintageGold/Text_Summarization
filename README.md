@@ -27,15 +27,16 @@ Frequency Counts of Unigrams, Bigrams, and Trigrams During the COVID-19 Pandemic
 For the Implementation of the code we recommend to have the following libraries:
 
   - pandas
-  - Matplotlib
-  - String
-  - Spacy
-  - SciSpacy
-  - Genism
-  - Rake-nltk
+  - matplotlib
+  - string
+  - spacy
+  - sciSpacy
+  - genism
+  - rake-nltk
   - sklearn
-  - Pattern
-  - Nltk
-  - String
+  - pattern
+  - nltk
+  - string
   - textwrap
   - json
+  - rouge
