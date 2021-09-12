@@ -18,7 +18,11 @@ Keywords: Telepsychology, telemental health, NLP, NER, Topic Modeling, Text Mini
 
 # Project Framework
 
-![image](https://user-images.githubusercontent.com/63023492/133001304-88a725c9-51c7-474a-b668-5358f8dede4b.png)
+![Project Framework](https://user-images.githubusercontent.com/63023492/133001304-88a725c9-51c7-474a-b668-5358f8dede4b.png)
+img[src$="centerme"] {
+  display:block;
+  margin: 0 auto;
+}
 
 # Example Findings:
 
