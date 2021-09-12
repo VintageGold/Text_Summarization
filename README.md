@@ -1,19 +1,24 @@
 <img src="Images/UMBC_Graduate_School.jpg" width="150">
 
-# Text_Summarization
-UMBC Master's in Data Science Data690 - Conduct Text Summarization
+# Analyzing How Research on Telepsychology has Changed as a Result of the Coronavirus Pandemic 
+### An Application of Natural Language Processing
 
-# Project Overview
+Jessica C. Conroy, Daniel B. Babcock, Adam M. Goldstein, Yunpeng Li, Jinqing Liang, and Jorge Neyra
+UMBC Master's in Data Science Data690
 
-The COVID-19 Pandemic has led to a rapid shift from in-person to virtual work.
+# Project Abstract
 
-This shift has created an incredible demand for research on working in virtual environments.
-
-In addition, the pandemic and other societal stressors have led to a mental health crisis in the US.
+The Coronavirus pandemic has had a tremendous effect on all areas of life, perhaps the most salient being the rapid transition to remote life. This paper aims to understand how that shift has impacted academic work produced in the field of telepsychology. We used a variety of Natural Language Processing (NLP) techniques to explore keywords, named entities, topics, and more across articles published between 2016 and 2021. Furthermore, we compared the results for those articles published before 2020 and the outbreak of the COVID-19 Pandemic with those published during the pandemic in order to find the changes that have occurred as a result. We identified three major groups in the literature: 1. Implementation, barriers, and evidence-based treatment; 2. Training and ethics; and 3. Covid-19 and Stress related disorders. We also identified major shifts during the pandemic towards discussing stress and stress-related disorders and away from discussing depression and self-help technologies. This paper summarizes some of the existing research on telemental health and provides a model for systematically applying NLP to identify trends in literature.
 
 In order to obtain an unbiased understanding of the existing literature on telemental health and telepsychology,
 as well as how COVID-19 has affected that literature, we used text summarization techniques including keyword extraction,
 topic modelling, text similarity analysis and more to perform a review of the literature.
+
+Keywords: Telepsychology, telemental health, NLP, NER, Topic Modeling, Text Mining, Covid-19, NMF 
+
+# Project Framework
+
+![image](https://user-images.githubusercontent.com/63023492/133001304-88a725c9-51c7-474a-b668-5358f8dede4b.png)
 
 # Example Findings:
 
