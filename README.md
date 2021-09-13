@@ -43,39 +43,51 @@ Table 1. First 10 topics identified in the entire corpus using NMF.
   </tr>
   <tr>
     <td>Topic 1:</td>
-    <td>Topic 2:</td>
-    <td>Topic 3:</td>
-    <td>Topic 4:</td>
-    <td>Topic 5:</td>
-    <td>Topic 6:</td>
-    <td>Topic 7:</td>
-    <td>Topic 8:</td>
-    <td>Topic 9:</td>
-    <td>Topic 10:</td>
-  </tr>
-  <tr>
     <td>Pandemic and Stress</td>
-    <td>American Psychological Association and telepsychology</td>
-    <td>Veteran affairs and veteran care</td>
-    <td>Online technologies</td>
-    <td>Research</td>
-    <td>Supervision and Training</td>
-    <td>Caregiver and skill-based treatment</td>
-    <td>Methods of self help</td>
-    <td>Rural Care and Latinx Communities</td>
-    <td>Remote testing/assessment</td>
+    <td>trauma, 2020, pandemic, disorder, disease, 2019, stress, posttraumatic, coronavirus, telepsychotherapy</td>
+  <tr>
+    <th>Topic 2:</th>
+    <th>American Psychological Association and telepsychology</th>
+    <th>psychology, concern, american, psychological, association, client, state, practice, psychologist, telepsychologys</th>
   </tr>
   <tr>
-    <td>trauma, 2020, pandemic, disorder, disease, 2019, stress, posttraumatic, coronavirus, telepsychotherapy</td>
-    <td>psychology, concern, american, psychological, association, client, state, practice, psychologist, telepsychology</td>
-    <td>service, healthcare, care, york, harbor, affairs, telemental, hub, veteran, veterans</td>
-    <td>bit, service, providers, online, couple, technologies, module, client, intervention, telemental</td>
-    <td>randomized, meta, clinician, veteran, deliver, studies, face, intervention, analysis, telepsychology</td>
-    <td>Director, transition, supervision, student, telepsychology, supervisor, telesupervision, training, clinic, trainee</td>
-    <td>score, caregiver, posttreatment, tutorial, behavior, skill, therapy, interaction, child, parent</td>
-    <td>television, book, user, guide, internet, patient, borgueta, self, help, guided</td>
-    <td>family, model, integrate, primary, community, disparity, brazil, rural, care, latinx</td>
-    <td>kbit, taker, index, examinee, proctor, subtest, remote, wisc, test, administration</td>
+    <th>Topic 3:</th>
+    <th>Veteran affairs and veteran care</th>
+    <th>service, healthcare, care, york, harbor, affairs, telemental, hub, veteran, veterans</th>
+  <tr>
+    <th>Topic 4:</th>
+    <th>Online technologies</th>
+    <th>bit, service, providers, online, couple, technologies, module, client, intervention, telemental</th>
+  </tr>
+  <tr>
+    <th>Topic 5:</th>
+    <th>Research</th>
+    <th>randomized, meta, clinician, veteran, deliver, studies, face, intervention, analysis, telepsychology</th>
+  </tr>
+  <tr>
+    <th>Topic 6:</th>
+    <th>Supervision and Training</th>
+    <th>Director, transition, supervision, student, telepsychology, supervisor, telesupervision, training, clinic, trainee</th>
+  </tr>
+  <tr>
+    <th>Topic 7:</th>
+    <th>Caregiver and skill-based treatment</th>
+    <th>score, caregiver, posttreatment, tutorial, behavior, skill, therapy, interaction, child, parent</th>
+  </tr>
+  <tr>
+    <th>Topic 8:</th>
+    <th>Methods of self help</th>
+    <th>television, book, user, guide, internet, patient, borgueta, self, help, guided</th>
+  </tr>
+  <tr>
+    <th>Topic 9:</th>
+    <th>Rural Care and Latinx Communities</th>
+    <th>family, model, integrate, primary, community, disparity, brazil, rural, care, latinx</th>
+  </tr>
+  <tr>
+    <th>Topic 10:</th>
+    <th>Remote testing/assessment</th>
+    <th>kbit, taker, index, examinee, proctor, subtest, remote, wisc, test, administration</th>
   </tr>
 </table>
 
