@@ -42,9 +42,9 @@ Table 1. First 10 topics identified in the entire corpus using NMF.
     <th>Generated Topic Words</th>
   </tr>
   <tr>
-    <td>Topic 1:</td>
-    <td>Pandemic and Stress</td>
-    <td>trauma, 2020, pandemic, disorder, disease, 2019, stress, posttraumatic, coronavirus, telepsychotherapy</td>
+    <th>Topic 1:</th>
+    <th>Pandemic and Stress</th>
+    <th>trauma, 2020, pandemic, disorder, disease, 2019, stress, posttraumatic, coronavirus, telepsychotherapy</th>
   <tr>
     <th>Topic 2:</th>
     <th>American Psychological Association and telepsychology</th>
